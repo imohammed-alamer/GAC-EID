@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: myFont;
+    src: url(GACFONT.ttf);
+}
+div {
+  
+        font-family: 'myFont'; 
+   
+}
+
+#foot{
+    font-size: 10px;
+}
+
+footer {
+    margin-top: 20px;
+}
